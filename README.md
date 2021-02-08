@@ -12,3 +12,7 @@ INSTALLATION PROCCESS
   step 2. go to colab.research.google.com/#create=true and paste the code there;  
   step 3. Hooray! You just installed PyOS;  
   step 4. simple right? Yeah I know.  
+
+# ABOUT:
+language: python  
+creation stage: alpha  
