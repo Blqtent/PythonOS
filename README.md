@@ -8,7 +8,8 @@ INSTALLATION PROCCESS
   
 # steps:
   
-  step 1.copy the code in the main.py file
-  step 2. go to colab.research.google.com/#create=true and paste the code there
-  step 3. Hooray! You just installed PyOS
-  step 4. simple right? Yeah I know.
+  step 1.copy the code in the main.py file;  
+  step 2. go to colab.research.google.com/#create=true and paste the code there;  
+  step 3. Hooray! You just installed PyOS;  
+  
+  step 4. simple right? Yeah I know.  
